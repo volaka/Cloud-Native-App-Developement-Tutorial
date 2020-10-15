@@ -6,15 +6,10 @@
 
 * [Pre-work](getting-started/pre-work.md)
 
-## Some Heading
+## Workshop
 
-* [Some Section](some-heading/some-section/README.md)
-  * [Some Exercise](some-heading/some-section/some-exercise.md)
-  * [Test Page](some-heading/some-section/test-page.md)
-
-## Workshop Resources
-
-* [Instructor Guide](workshop-resources/admin-guide.md)
+* [Create Application](workshop/some-section.md)
+* [Build and Run Your Application](workshop/build-and-run-your-application.md)
 
 ## Resources
 
