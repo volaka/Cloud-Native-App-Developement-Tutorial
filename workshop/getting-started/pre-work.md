@@ -3,7 +3,11 @@
 This section is broken up into the following steps:
 
 1. [Sign up for IBM Cloud](pre-work.md#1-sign-up-for-ibm-cloud)
-2. [Download or clone the repo](pre-work.md#2-download-or-clone-the-repo)
+2. \*\*\*\*[**Configure Workshop Environment**](pre-work.md#2-configure-workshop-environment)\*\*\*\*
+   1. [Sign Up to CognitiveClass Lab Environment](pre-work.md#sign-up-to-cognitiveclass-lab-environment)
+   2. [Sign Up to Play with Docker Environment](pre-work.md#sign-up-to-play-with-docker-environment)
+      1. [OR Install IBMCLOUD CLI Directly! \(RECOMMENDED\)](pre-work.md#or-install-ibmcloud-cli-directly-recommended)
+   3. [Sign Up to Katacoda Environment](pre-work.md#sign-up-to-katacoda-environment)
 
 ## 1. Sign up for IBM Cloud
 
@@ -67,7 +71,7 @@ ibmcloud login -a cloud.ibm.com -r eu-gb -g Default
 ibmcloud target --cf
 ```
 
-### OR Install IBMCLOUD CLI Directly! \(RECOMMENDED\)
+#### OR Install IBMCLOUD CLI Directly! \(RECOMMENDED\)
 
 ```text
 curl -fsSL https://clis.cloud.ibm.com/install/linux | sh
